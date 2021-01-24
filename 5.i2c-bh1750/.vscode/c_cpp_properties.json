@@ -1,0 +1,52 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceRoot}",
+                "D:\\ESP32\\sdk\\esp-idf-v3.0.5\\components",
+                "D:/ESP32/sdk/esp-idf-v3.0.5/components/newlib/include",
+                "D:/ESP32/sdk/esp-idf-v3.0.5/components/esp32/include",
+                "${workspaceFolder}/components/user_driver/include",
+                "D:/ESP32/toolchain/esp32_win32_msys2_environment_and_toolchain-20181001/msys32/opt/xtensa-esp32-elf/lib/gcc/xtensa-esp32-elf/5.2.0/include",
+                "D:/ESP32/sdk/esp-idf-v3.0.5/components/driver/include",
+                "D:/ESP32/sdk/esp-idf-v3.0.5/components/soc/esp32/include",
+                "D:/ESP32/sdk/esp-idf-v3.0.5/components/freertos/include",
+                "${workspaceFolder}/build/config",
+                "D:/ESP32/sdk/esp-idf-v3.0.5/components/log/include",
+                "D:/ESP32/sdk/esp-idf-v3.0.5/components/heap/include",
+                "D:/ESP32/sdk/esp-idf-v3.0.5/components/soc/include",
+                "D:/ESP32/sdk/esp-idf-v3.0.5/components/spi_flash/include",
+                "D:/ESP32/sdk/esp-idf-v3.0.5/components/tcpip_adapter/include",
+                "D:/ESP32/sdk/esp-idf-v3.0.5/components/lwip/include/lwip",
+                "D:/ESP32/sdk/esp-idf-v3.0.5/components/lwip/include/lwip/port",
+                "D:/ESP32/sdk/esp-idf-v3.0.5/components/vfs/include",
+                "D:/ESP32/sdk/esp-idf-v3.0.5/components/nvs_flash/include",
+                "D:/ESP32/sdk/esp-idf-v3.0.5/components/newlib/platform_include",
+                "D:/ESP32/sdk/esp-idf-v3.0.5/components/mbedtls/include/mbedtls",
+                "D:/ESP32/sdk/esp-idf-v3.0.5/components/json/cJSON",
+                "D:/ESP32/sdk/esp-idf-v3.0.5/components/wpa_supplicant/port/include"
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": "",
+                "path": [
+                    "${workspaceRoot}",
+                    "D:\\ESP32\\sdk\\esp-idf-v3.0.5\\components",
+                    "D:\\ESP32\\toolchain"
+                ]
+            },
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "8.1",
+            "compilerPath": "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/cl.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "msvc-x64"
+        }
+    ],
+    "version": 4
+}

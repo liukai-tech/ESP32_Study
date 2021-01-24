@@ -1,0 +1,10 @@
+{
+    "C_Cpp.intelliSenseEngineFallback": "Enabled",
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "ledc.h": "c",
+        "esp_wifi.h": "c",
+        "freertos.h": "c",
+        "uart.h": "c"
+    }
+}

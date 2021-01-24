@@ -1,0 +1,23 @@
+{
+    "C_Cpp.intelliSenseEngineFallback": "Enabled",
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "ledc.h": "c",
+        "esp_wifi.h": "c",
+        "freertos.h": "c",
+        "uart.h": "c",
+        "stdio.h": "c",
+        "esp_system.h": "c",
+        "gpio.h": "c",
+        "gpio_struct.h": "c",
+        "array": "c",
+        "vector": "c",
+        "xstring": "c",
+        "xutility": "c",
+        "string": "c",
+        "string_view": "c",
+        "queue": "cpp",
+        "random": "cpp",
+        "ssd1306.h": "c"
+    }
+}
